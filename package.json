@@ -1,0 +1,19 @@
+{
+  "name": "git-tutorial",
+  "version": "1.0.0",
+  "description": "This is a simple hello world",
+  "main": "assets/js/script.js",
+  "scripts": {
+    "start": "node assets/js/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michade01/helloworld.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michade01/helloworld/issues"
+  },
+  "homepage": "https://github.com/michade01/helloworld#readme"
+}
