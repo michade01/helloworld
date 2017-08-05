@@ -4,7 +4,7 @@
   "description": "This is a simple hello world",
   "main": "assets/js/script.js",
   "scripts": {
-    "start": "node assets/js/script.js"
+    "start": "node ./script.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michade01/helloworld/issues"
   },
-  "homepage": "https://github.com/michade01/helloworld#readme"
+  "homepage": "https://github.com/michade01/helloworld#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
